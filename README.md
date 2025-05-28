@@ -27,10 +27,10 @@ This project uses deep learning to predict the risk of atherosclerosis based on 
 ## 🖼️ UI Preview
 
 ### ✅ Healthy Prediction:
-![Healthy Output](outputs/prediction_healthy.png)
+![Healthy Output](outputs/Healthy.png)
 
 ### ❌ Unhealthy Prediction:
-![Unhealthy Output](outputs/prediction_unhealthy.png)
+![Unhealthy Output](outputs/Unhealthy.png)
 
 ---
 
