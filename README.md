@@ -1,4 +1,4 @@
-# 🧠 DL-based Early Detection of Atherosclerosis for Stroke Prevention
+#  DL-based Early Detection of Atherosclerosis for Stroke Prevention
 
 This project uses deep learning to predict the risk of atherosclerosis based on both clinical and sensor data. The goal is early detection to prevent stroke-related complications.
 
